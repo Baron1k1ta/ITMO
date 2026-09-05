@@ -1,0 +1,31 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "This project demonstrates “cold advertising via NFT sending” with opt-out and per-advertiser blocks. It uses Hardhat v3, the viem toolbox, and an Ignition module for deployment.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^3.0.5",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.1",
+    "@types/chai": "^4.3.11",
+    "@types/node": "^22.19.1",
+    "chai": "^4.4.1",
+    "forge-std": "github:foundry-rs/forge-std#v1.9.4",
+    "hardhat": "^3.0.16",
+    "typescript": "~5.8.0",
+    "viem": "^2.41.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "directories": {
+    "test": "test"
+  }
+}

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Baronov Nikita
+Main-Class: info.kgeorgiy.ja.baronov.implementor.Implementor
+Class-Path: ../../java-advanced-2025/artifacts/info.kgeorgiy.java.advanced.implementor.jar ../../java-advanced-2025/artifacts/info.kgeorgiy.java.advanced.implementor.tools.jar

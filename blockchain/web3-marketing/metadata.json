@@ -1,0 +1,15 @@
+{
+  "name": "Web3 Marketing Ad #1",
+  "description": "Demo of cold advertising via NFT sending on Sepolia.",
+  "image": "https://turquoise-advisory-whippet-692.mypinata.cloud/ipfs/bafkreidcut6mk4gqxx6bnxghx7k4rirrpign7qer52wr6633lvhntazflu",
+  "attributes": [
+    {
+      "trait_type": "Campaign",
+      "value": "Demo-1"
+    },
+    {
+      "trait_type": "Channel",
+      "value": "Wallet-based NFT ad"
+    }
+  ]
+}
